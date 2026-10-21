@@ -1,0 +1,52 @@
+---
+title: "Teaching"
+---
+
+::: {.course-header}
+::: {.eyebrow}
+BIOL 302 / 502
+:::
+
+## Introductory Data Science for Biologists
+
+[View course syllabus ↗](https://manulab.info/wp-content/uploads/2026/04/Biol302502_Syllabus_2026.html){.lab-button .primary target="_blank" rel="noopener noreferrer"}
+:::
+
+::: {.module-list}
+::: {.course-module}
+::: {.module-number}
+01
+:::
+
+::: {.module-content}
+### Module 1
+
+[Study Guide A ↗](https://manulab.info/custompages/Module1StudyGuideA.html){target="_blank" rel="noopener noreferrer"} · [Study Guide B ↗](https://manulab.info/custompages/Module1StudyGuideB.html){target="_blank" rel="noopener noreferrer"} · [Homework ↗](https://manulab.info/custompages/Module1Homework.html){target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.course-module}
+::: {.module-number}
+02
+:::
+
+::: {.module-content}
+### Module 2
+
+[Study Guide A ↗](https://manulab.info/custompages/Module2StudyGuideA.html){target="_blank" rel="noopener noreferrer"} · [Study Guide B ↗](https://manulab.info/custompages/Module2StudyGuideB.html){target="_blank" rel="noopener noreferrer"} · [Homework ↗](https://manulab.info/custompages/Module2Homework.html){target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.course-module}
+::: {.module-number}
+03
+:::
+
+::: {.module-content}
+### Module 3
+
+[Study Guide A ↗](https://manulab.info/custompages/Module3StudyGuideA.html){target="_blank" rel="noopener noreferrer"} · [Study Guide B ↗](https://manulab.info/custompages/Module3StudyGuideB.html){target="_blank" rel="noopener noreferrer"} · [Homework A ↗](https://manulab.info/custompages/Module3HomeworkA.html){target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+:::

@@ -1,0 +1,39 @@
+---
+title: "Contact"
+---
+
+::: {.contact-grid}
+::: {.contact-primary}
+::: {.eyebrow}
+EMAIL THE LAB
+:::
+
+## [manu.manu@und.edu](mailto:manu.manu@und.edu)
+
+Department of Biology  
+[University of North Dakota ↗](https://arts-sciences.und.edu/academics/biology/){target="_blank" rel="noopener noreferrer"}
+
+### Office
+
+Room 209, Starcher Hall
+
+### Phone
+
+[+1 701 777 4671](tel:+17017774671)
+:::
+
+::: {.address-panel}
+::: {.eyebrow}
+MAILING ADDRESS
+:::
+
+
+The Manu Lab  
+10 Cornell Street, Stop 9019  
+Grand Forks, ND 58202-9019  
+United States
+
+[Open in Google Maps ↗](https://www.google.com/maps/search/?api=1&query=Starcher+Hall+10+Cornell+Street+Grand+Forks+ND){.lab-button .primary target="_blank" rel="noopener noreferrer"}
+:::
+:::
+

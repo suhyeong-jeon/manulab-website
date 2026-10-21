@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.19">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Manu Lab</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<link href="./assets/mark.svg" rel="icon" type="image/svg+xml">
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-64b95bd92678e95ca9ede812968f1f1d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-xl " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Manu Lab</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./team.html"> 
+<span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publication.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./tools.html"> 
+<span class="menu-text">Tools</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./open-positions.html"> 
+<span class="menu-text">Join the lab</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Research</h1></header>
+
+<header id="title-block-header">
+
+
+</header>
+
+
+<div class="research-overview">
+<section id="what-makes-a-cell-choose-its-fate" class="research-question">
+<h2>What makes a cell choose its fate?</h2>
+<p>Our work connects the regulation of individual genes to the behavior of interconnected networks, using blood-cell development as a model system.</p>
+</section>
+<div class="research-illustration">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/cell-network.png" class="network-illustration img-fluid figure-img"></p>
+<figcaption>Conceptual network linking gene regulation and cell identity.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div id="approaches" class="approach-band">
+<h2 id="research-directions">Research Directions</h2>
+<div id="regulatory-logic" class="research-direction">
+<div class="direction-number">
+<p>01</p>
+</div>
+<section id="decoding-the-gene-regulatory-logic-of-individual-enhancers" class="direction-copy">
+<h3>Decoding the gene regulatory logic of individual enhancers</h3>
+<p>The regulatory logic—the transcription factors (TFs), their roles, and their binding sites—of most genes remains to be discovered. The decoding of regulatory logic is challenging because of its complexity—genes may be regulated by multiple enhancers and each enhancer may, in turn, be jointly regulated by several TFs exerting positive or negative influence over the target gene.</p>
+<p>We developed a data-driven computational <a href="https://doi.org/10.1016/j.ydbio.2016.02.030" target="_blank" rel="noreferrer noopener">approach</a> to solve the problem of decoding regulatory logic in a scalable manner by training mechanistic models of transcription on functional genomics datasets. Our approach does not require&nbsp;<em>a priori&nbsp;</em>knowledge of the identities or the regulatory roles, activation or repression, of the TFs regulating a CRM. The TFs regulating a CRM and their regulatory roles are inferred&nbsp;<em>in silico&nbsp;</em>by testing many alternative models, each realizing a potential regulatory scheme, against quantitative reporter data.</p>
+<p>We applied our approach to a gene essential for neutrophil development,&nbsp;<em>Cebpa</em>, whose&nbsp;regulatory logic was poorly understood at the time. We identified 4 enhancers, of which 3 were not known previously. Our <em>in silico</em> approach inferred a comprehensive map of the regulation of the&nbsp;<em>Cebpa&nbsp;</em>locus, with activation by PU.1, C/EBP family TFs, Gfi1, and Egr1, which was <a href="https://doi.org/10.1371/journal.pone.0217580" target="_blank" rel="noreferrer noopener">verified experimentally</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://manulab.info/wp-content/uploads/2021/07/Cebpamap-1024x227.png" class="img-fluid figure-img"></p>
+<figcaption>A map of Cebpa constructed by a combination of mechanistic modeling and functional genomics</figcaption>
+</figure>
+</div>
+<p><strong>Future Direction:</strong> Having demonstrated the utility of our approach by learning the regulation of an important developmental gene, we are exploring ways of scaling regulatory decoding to a genomic scale by utilizing high-throughput reporter assays.</p>
+</section>
+</div>
+<div id="cell-fate" class="research-direction">
+<div class="direction-number">
+<p>02</p>
+</div>
+<section id="the-architecture-of-hematopoietic-gene-regulatory-networks" class="direction-copy">
+<h3>The architecture of hematopoietic gene regulatory networks</h3>
+<p>One of the main ideas about how multipotential progenitors choose between the red-blood cell and myeloid lineages is that two so-called master regulators, Gata1 and PU.1, function as a bistable switch by repressing each other’s expression. Although simple, this model is based largely on genetic and biochemical analyses conducted at steady state, which may not capture causality.</p>
+<p>We took an alternative, machine-learning based, approach of inferring genetic architecture by training mechanistic dynamical models on gene expression time series data. We constructed a model of a 12-gene GRN including key lineage-specifying TFs, cytokine signaling effectors, and cytokine receptors using a high-temporal resolution dataset of erythrocyte-neutrophil differentiation. The model can quantitatively predict the consequences of several genetic perturbations and the inferred architecture is consistent with prior evidence.</p>
+<p>Our analysis of the transient dynamics of gene regulation produced a surprise. In contrast to the bistable-switch model, which posits that PU.1 initiates the differentiation of neutrophils, our model predicts that PU.1 is activated much later in the differentiation process by C/EBPα&nbsp;and Gfi1, TFs known to be necessary for myeloid differentiation. This prediction was also validated in an independent single-cell RNA-Seq dataset. Besides providing insights into the causality of events and the network architecture underlying lineage choice, <a href="https://doi.org/10.1101/2021.05.10.443501" target="_blank" rel="noreferrer noopener">this work</a> establishes the our modeling approach as a powerful tool for understanding cell-fate choice.</p>
+<p><strong>Future Direction:</strong> The extensive amount of lineage antagonism and transdifferentiation documented in the hematopoietic system implies that the specification of a lineage not only depends on the factors expressed in it but also on factors expressed in other lineages. Accurate modeling of lineage decisions therefore must integrate multiple lineages. We are expanding the scope of our work to the choices between multiple hematopoietic lineages and to datasets generated by newer single-cell techniques.</p>
+</section>
+</div>
+<div id="fast-inference" class="research-direction">
+<div class="direction-number">
+<p>03</p>
+</div>
+<section id="technology-development-fast-inference-of-gene-regulation" class="direction-copy">
+<h3>Technology development: Fast Inference of Gene Regulation</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://manulab.info/wp-content/uploads/2021/07/heatmaps-DrosCBISA-v2.png" class="img-fluid figure-img"></p>
+<figcaption>Empirical spatiotemporal gap gene expression patterns (A) and FIGR simulations (B)</figcaption>
+</figure>
+</div>
+<p>Hematopoietic cell-fate specification relies on large densely interconnected gene networks. A major bottleneck in predictively modeling large networks using differential equations is that parameter inference is computationally expensive. For example, inferring the parameters of a 12-gene network takes about 30 hours on 10 CPUs. Larger networks are nearly impossible to infer since the computational demands grow very rapidly with the number of genes. We have developed a new method for parameter inference, <a href="https://doi.org/10.1534/g3.119.400603" target="_blank" rel="noreferrer noopener">Fast Inference of Gene Regulation (FIGR)</a>, that utilizes supervised classification techniques and is vastly more efficient than previous methods. For example, FIGR achieves a 600x speedup on the gap gene network of&nbsp;<em>Drosophila</em>.</p>
+<p><strong>Future Direction:</strong> FIGR enables differential equation modeling of much larger networks than was previously possible and we are utilizing it our efforts to infer hematopoietic gene networks from multiple lineages.</p>
+</section>
+</div>
+<div id="enhancer-cooperation" class="research-direction">
+<div class="direction-number">
+<p>04</p>
+</div>
+<section id="non-additive-control-of-gene-expression-by-multiple-enhancers" class="direction-copy">
+<h3>Non-additive control of gene expression by multiple enhancers</h3>
+<p>Classical enhancers have long been regarded as acting additively in a distance independent manner, but recent experiments do not support the classical assumptions and reveal non-additive behavior. Non-additive responses could be a result of interference between enhancers at the level of promoter-enhancer looping or chromatin structure. We are combining genome editing, epigenetic profiling, and computational modeling to investigate the mechanisms underlying non-additive co-regulation of genes by multiple enhancers.</p>
+</section>
+</div>
+<div id="cell-cycle-exit" class="research-direction">
+<div class="direction-number">
+<p>05</p>
+</div>
+<section id="control-of-cell-cycle-exit-by-cell-identity-transcription-factors-during-differentiation" class="direction-copy">
+<h3>Control of cell-cycle exit by cell identity transcription factors during differentiation</h3>
+<p>During hematopoiesis, most pluripotent stem cells are quiescent, and the bulk of amplification comes from early and late lineage restricted progenitors. Recent functional genomic studies have revealed that cell-fate and cell-cycle gene regulatory networks (GRNs) are large and densely interconnected, but do not explain how rapidly dividing cells exit the cell cycle and differentiate. We acquired a large time-series RNA-seq and ATAC-seq datasets and find widespread coordinate regulation of cell-cycle genes by the transcription factor PU.1 that binds to their as yet uncharacterized distal regulatory elements. We also find that different canonical mediators of cell-cycle exit are regulated in a cell identity specific manner. Our current efforts are directed at identifying enhancers of candidate cell-cycle exit regulators and decoding their regulation.</p>
+</section>
+</div>
+</div>
+
+
+
+</main> <!-- /main -->
+<footer class="lab-footer" aria-label="Lab contact information">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <a href="index.html">Manu Lab</a>
+      <p>Department of Biology<br>University of North Dakota</p>
+    </div>
+
+    <div>
+      <h2>Find us</h2>
+      <p>
+        Room 209, Starcher Hall<br>
+        10 Cornell Street, Stop 9019<br>
+        Grand Forks, ND 58202-9019
+      </p>
+    </div>
+
+    <div>
+      <h2>Contact</h2>
+      <p>
+        <a href="mailto:manu.manu@und.edu">manu.manu@und.edu ↗</a><br>
+        <a href="tel:+17017774671">+1 701 777 4671</a>
+      </p>
+    </div>
+  </div>
+  <div class="footer-bottom"><span>The Manu Lab · University of North Dakota</span></div>
+</footer>
+<script src="site.js" defer=""></script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/suhyeong-jeon\.github\.io\/manulab-website\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

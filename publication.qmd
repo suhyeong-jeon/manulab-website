@@ -1,0 +1,342 @@
+---
+title: "Publications"
+---
+
+## Preprints
+
+::: {.publication-list}
+::: {.publication data-year="2026"}
+::: {.publication-date}
+
+:::
+
+::: {.publication-body}
+
+
+::: {.publication-authors}
+
+:::
+
+::: {.publication-journal}
+
+:::
+
+
+:::
+:::
+
+
+:::
+
+## Published
+[Full bibliography on NCBI ↗](https://www.ncbi.nlm.nih.gov/myncbi/manu.manu.1/bibliography/public/){.text-link target="_blank" rel="noopener noreferrer"}
+
+::: {.publication-list}
+::: {.publication data-year="2026"}
+::: {.publication-date}
+2026
+:::
+
+::: {.publication-body}
+### The differentiation of myeloid progenitors is effected by cascading waves of coordinated gene expression that remodel cellular physiology in a characteristic sequence
+
+::: {.publication-authors}
+Repele A, Handzlik J, Samarawickrama N, Long T, Nooti S, Potluri V, Loh YL, Manu
+:::
+
+::: {.publication-journal}
+PLOS Computational Biology · 22(5), e1014276
+:::
+
+[Journal article ↗](https://doi.org/10.1371/journal.pcbi.1014276){.paper-link
+target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2024"}
+::: {.publication-date}
+2024
+:::
+
+::: {.publication-body}
+### The contributions of DNA accessibility and transcription factor occupancy to enhancer activity during cellular differentiation
+
+::: {.publication-authors}
+Long T, Bhattacharyya T, Repele A, Naylor M, Nooti S, Krueger S, Manu
+:::
+
+::: {.publication-journal}
+G3: Genes, Genomes, Genetics · 14(2), jkad269
+:::
+
+[Journal article ↗](https://doi.org/10.1093/g3journal/jkad269){.paper-link
+target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2023"}
+::: {.publication-date}
+2023
+:::
+
+::: {.publication-body}
+### LucFlow: A method to measure Luciferase reporter expression in single cells
+
+::: {.publication-authors}
+Nooti S, Naylor M, Long T, Groll B, Manu
+:::
+
+::: {.publication-journal}
+PLOS ONE · 18(10), e0292317
+:::
+
+[Journal article ↗](https://doi.org/10.1371/journal.pone.0292317){.paper-link
+target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2022"}
+::: {.publication-date}
+2022
+:::
+
+::: {.publication-body}
+### Data-driven modeling predicts gene regulatory network dynamics during the differentiation of multipotential hematopoietic progenitors
+
+::: {.publication-authors}
+Handzlik J-E, Manu
+:::
+
+::: {.publication-journal}
+PLOS Computational Biology · 18(1), e1009779
+:::
+
+[Journal article ↗](https://doi.org/10.1371/journal.pcbi.1009779){.paper-link
+target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2021"}
+::: {.publication-date}
+2021
+:::
+
+::: {.publication-body}
+### Dynamic Modeling of Transcriptional Gene Regulatory Networks
+
+::: {.publication-authors}
+Handzlik J-E, Loh YL, Manu
+:::
+
+::: {.publication-journal}
+Methods in Molecular Biology · 2328
+:::
+
+[Journal article ↗](https://doi.org/10.1007/978-1-0716-1534-8_5){.paper-link
+target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2019"}
+::: {.publication-date}
+2019
+:::
+
+::: {.publication-body}
+### Classification-based inference of dynamical models of gene regulatory networks
+
+::: {.publication-authors}
+Fehr D, Handzlik J-E, Manu, Loh YL
+:::
+
+::: {.publication-journal}
+G3: Genes, Genomes, Genetics · 9(12), 4183–4195
+:::
+
+[Journal article ↗](https://doi.org/10.1534/g3.119.400603){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Fehr1912.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2019"}
+::: {.publication-date}
+2019
+:::
+
+::: {.publication-body}
+### Robust normalization of Luciferase reporter data
+
+::: {.publication-authors}
+Repele A, Manu
+:::
+
+::: {.publication-journal}
+Methods and Protocols · 2(3), 62
+:::
+
+[Journal article ↗](https://doi.org/10.3390/mps2030062){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Repele1907.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2019"}
+::: {.publication-date}
+2019
+:::
+
+::: {.publication-body}
+### The regulatory control of Cebpa enhancers and silencers in the myeloid and red-blood cell lineages
+
+::: {.publication-authors}
+Repele A, Krueger S, Bhattacharyya T, Tuineau MY, Manu
+:::
+
+::: {.publication-journal}
+PLOS ONE · 14(6), e0217580
+:::
+
+[Journal article ↗](https://doi.org/10.1371/journal.pone.0217580){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Repele1906.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2016"}
+::: {.publication-date}
+2016
+:::
+
+::: {.publication-body}
+### The analysis of novel distal Cebpa enhancers and silencers using a transcriptional model reveals the complex regulatory logic of hematopoietic lineage specification
+
+::: {.publication-authors}
+Bertolino E, Reinitz J, Manu
+:::
+
+::: {.publication-journal}
+Developmental Biology · 413, 128–141
+:::
+
+[Journal article ↗](https://doi.org/10.1016/j.ydbio.2016.02.030){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Bertolino1605.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2015"}
+::: {.publication-date}
+2015
+:::
+
+::: {.publication-body}
+### Temporal and spatial dynamics of scaling-specific features of a gene regulatory network in Drosophila
+
+::: {.publication-authors}
+Wu H, Manu, Jiao R, Ma J
+:::
+
+::: {.publication-journal}
+Nature Communications · 6, 10031
+:::
+
+[Journal article ↗](https://doi.org/10.1038/ncomms10031){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2013"}
+::: {.publication-date}
+2013
+:::
+
+::: {.publication-body}
+### Sex-specific pattern formation during early Drosophila development
+
+::: {.publication-authors}
+Manu, Ludwig MZ, Kreitman M
+:::
+
+::: {.publication-journal}
+Genetics · 194(1), 163–173
+:::
+
+[Journal article ↗](https://doi.org/10.1534/genetics.112.148205){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Manu1305.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2011"}
+::: {.publication-date}
+2011
+:::
+
+::: {.publication-body}
+### Consequences of eukaryotic enhancer architecture for gene expression dynamics, development, and fitness
+
+::: {.publication-authors}
+Ludwig MZ, Manu, Kittler R, White KP, Kreitman M
+:::
+
+::: {.publication-journal}
+PLOS Genetics · 7, e1002364
+:::
+
+[Journal article ↗](https://doi.org/10.1371/journal.pgen.1002364){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Manu11a.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2009"}
+::: {.publication-date}
+2009
+:::
+
+::: {.publication-body}
+### Canalization of gene expression in the Drosophila blastoderm by gap gene cross regulation
+
+::: {.publication-authors}
+Manu et al.
+:::
+
+::: {.publication-journal}
+PLOS Biology · 7, e1000049
+:::
+
+[Journal article ↗](https://doi.org/10.1371/journal.pbio.1000049){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Manu09a.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2009"}
+::: {.publication-date}
+2009
+:::
+
+::: {.publication-body}
+### Canalization of gene expression and domain shifts in the Drosophila blastoderm by dynamical attractors
+
+::: {.publication-authors}
+Manu et al.
+:::
+
+::: {.publication-journal}
+PLOS Computational Biology · 5, e1000303
+:::
+
+[Journal article ↗](https://doi.org/10.1371/journal.pcbi.1000303){.paper-link target="_blank" rel="noopener noreferrer"} · [PDF ↗](https://manulab.info/wp-content/uploads/2021/07/Manu09b.pdf){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+::: {.publication data-year="2004"}
+::: {.publication-date}
+2004
+:::
+
+::: {.publication-body}
+### Dynamic control of positional information in the early Drosophila embryo
+
+::: {.publication-authors}
+Jaeger J et al.
+:::
+
+::: {.publication-journal}
+Nature · 430, 368–371
+:::
+
+[Journal article ↗](https://doi.org/10.1038/nature02678){.paper-link target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+:::
+
+<div id="pub-empty" class="empty-state" hidden><h2>No matching publications</h2><p>Try a different keyword or select all years.</p></div>

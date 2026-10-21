@@ -1,0 +1,21 @@
+---
+title: "Join the lab"
+---
+
+::: {.opportunity-layout}
+::: {.opportunity-main}
+## Questions worth working on, together.
+
+We are always seeking talented **graduate** and **undergraduate students** interested in the interface of developmental genetics, genomics, bioinformatics, machine learning/AI, and predictive modeling.
+
+:::
+
+::: {.opportunity-aside}
+
+## Contact us!
+
+[Email Dr. Manu ↗](mailto:manu.manu@und.edu){.lab-button .primary target="_blank" rel="noopener noreferrer"}
+
+manu.manu@und.edu
+:::
+:::

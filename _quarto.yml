@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - team.qmd
+    - publication.qmd
+    - tools.qmd
+    - open-positions.qmd
+    - teaching.qmd
+    - contact.qmd
+  resources:
+    - .nojekyll
+    - assets/**
+    - site.js
+
+website:
+  site-url: "https://suhyeong-jeon.github.io/manulab-website/"
+  title: "Manu Lab"
+  description: "Gene regulation, cell-fate choice, and predictive modeling at the University of North Dakota."
+  favicon: assets/mark.svg
+  navbar:
+    background: light
+    collapse-below: xl
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: team.qmd
+        text: Team
+      - href: publication.qmd
+        text: Publications
+      - href: tools.qmd
+        text: Tools
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - href: open-positions.qmd
+        text: Join the lab
+      - href: contact.qmd
+        text: Contact
+  search: false
+
+pagetitle: "Manu Lab"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    title-block-style: none
+    anchor-sections: false
+    section-divs: false
+    smooth-scroll: true
+    include-after-body: _footer.html
+    grid:
+      body-width: 1180px
+      margin-width: 0px
+
+lang: en

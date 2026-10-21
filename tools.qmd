@@ -1,0 +1,34 @@
+---
+title: "Tools"
+---
+
+::: {.tool-type}
+COMPUTATIONAL METHOD
+:::
+
+## FIGR
+
+### Fast Inference of Gene Regulation
+
+A classification-based approach to parameter inference for dynamical models of gene regulatory networks.
+
+::: {.tool-actions}
+[Read the method ↗](https://github.com/mlekkha/FIGR){.lab-button .primary target="_blank" rel="noopener noreferrer"}
+:::
+
+
+::: {.tool-panel}
+::: {.tool-type}
+EXPERIMENTAL METHOD
+:::
+
+## LucFlow
+
+### Reporter measurements at single-cell resolution
+
+A method for measuring luciferase reporter expression in individual cells.
+
+::: {.tool-actions}
+[Read the protocol ↗](https://github.com/mlekkha/LUCNORM){.lab-button .primary target="_blank" rel="noopener noreferrer"}
+:::
+:::
