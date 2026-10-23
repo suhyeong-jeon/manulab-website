@@ -41,7 +41,7 @@ We are interested in:
 ::: {.section-kicker}
 :::
 
-## One question. Multiple scales.
+## What we study
 
 We study cell-fate decisions from the logic of individual enhancers to the architecture of entire gene regulatory networks.
 :::
