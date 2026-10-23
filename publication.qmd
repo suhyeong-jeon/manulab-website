@@ -41,7 +41,7 @@ title: "Publications"
 ### The differentiation of myeloid progenitors is effected by cascading waves of coordinated gene expression that remodel cellular physiology in a characteristic sequence
 
 ::: {.publication-authors}
-Repele A, Handzlik J, Samarawickrama N, Long T, Nooti S, Potluri V, Loh YL, Manu
+Repele A, **Handzlik J**, **Samarawickrama N**, **Long T**, **Nooti S**, Potluri V, Loh YL, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -62,7 +62,7 @@ target="_blank" rel="noopener noreferrer"}
 ### The contributions of DNA accessibility and transcription factor occupancy to enhancer activity during cellular differentiation
 
 ::: {.publication-authors}
-Long T, Bhattacharyya T, Repele A, Naylor M, Nooti S, Krueger S, Manu
+**Long T**, Bhattacharyya T, Repele A, Naylor M, **Nooti S**, Krueger S, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -83,7 +83,7 @@ target="_blank" rel="noopener noreferrer"}
 ### LucFlow: A method to measure Luciferase reporter expression in single cells
 
 ::: {.publication-authors}
-Nooti S, Naylor M, Long T, Groll B, Manu
+**Nooti S**, Naylor M, **Long T**, Groll B, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -104,7 +104,7 @@ target="_blank" rel="noopener noreferrer"}
 ### Data-driven modeling predicts gene regulatory network dynamics during the differentiation of multipotential hematopoietic progenitors
 
 ::: {.publication-authors}
-Handzlik J-E, Manu
+**Handzlik J-E**, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -125,7 +125,7 @@ target="_blank" rel="noopener noreferrer"}
 ### Dynamic Modeling of Transcriptional Gene Regulatory Networks
 
 ::: {.publication-authors}
-Handzlik J-E, Loh YL, Manu
+**Handzlik J-E**, Loh YL, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -146,7 +146,7 @@ target="_blank" rel="noopener noreferrer"}
 ### Classification-based inference of dynamical models of gene regulatory networks
 
 ::: {.publication-authors}
-Fehr D, Handzlik J-E, Manu, Loh YL
+Fehr D, **Handzlik J-E**, **Manu**, Loh YL
 :::
 
 ::: {.publication-journal}
@@ -166,7 +166,7 @@ G3: Genes, Genomes, Genetics · 9(12), 4183–4195
 ### Robust normalization of Luciferase reporter data
 
 ::: {.publication-authors}
-Repele A, Manu
+Repele A, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -186,7 +186,7 @@ Methods and Protocols · 2(3), 62
 ### The regulatory control of Cebpa enhancers and silencers in the myeloid and red-blood cell lineages
 
 ::: {.publication-authors}
-Repele A, Krueger S, Bhattacharyya T, Tuineau MY, Manu
+Repele A, Krueger S, Bhattacharyya T, Tuineau MY, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -206,7 +206,7 @@ PLOS ONE · 14(6), e0217580
 ### The analysis of novel distal Cebpa enhancers and silencers using a transcriptional model reveals the complex regulatory logic of hematopoietic lineage specification
 
 ::: {.publication-authors}
-Bertolino E, Reinitz J, Manu
+Bertolino E, Reinitz J, **Manu**
 :::
 
 ::: {.publication-journal}
@@ -226,7 +226,7 @@ Developmental Biology · 413, 128–141
 ### Temporal and spatial dynamics of scaling-specific features of a gene regulatory network in Drosophila
 
 ::: {.publication-authors}
-Wu H, Manu, Jiao R, Ma J
+Wu H, **Manu**, Jiao R, Ma J
 :::
 
 ::: {.publication-journal}
@@ -246,7 +246,7 @@ Nature Communications · 6, 10031
 ### Sex-specific pattern formation during early Drosophila development
 
 ::: {.publication-authors}
-Manu, Ludwig MZ, Kreitman M
+**Manu**, Ludwig MZ, Kreitman M
 :::
 
 ::: {.publication-journal}
@@ -266,7 +266,7 @@ Genetics · 194(1), 163–173
 ### Consequences of eukaryotic enhancer architecture for gene expression dynamics, development, and fitness
 
 ::: {.publication-authors}
-Ludwig MZ, Manu, Kittler R, White KP, Kreitman M
+Ludwig MZ, **Manu**, Kittler R, White KP, Kreitman M
 :::
 
 ::: {.publication-journal}
@@ -286,7 +286,7 @@ PLOS Genetics · 7, e1002364
 ### Canalization of gene expression in the Drosophila blastoderm by gap gene cross regulation
 
 ::: {.publication-authors}
-Manu et al.
+**Manu** et al.
 :::
 
 ::: {.publication-journal}
@@ -306,7 +306,7 @@ PLOS Biology · 7, e1000049
 ### Canalization of gene expression and domain shifts in the Drosophila blastoderm by dynamical attractors
 
 ::: {.publication-authors}
-Manu et al.
+**Manu** et al.
 :::
 
 ::: {.publication-journal}
